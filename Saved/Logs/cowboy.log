@@ -1444,3 +1444,204 @@ Script call stack:
 [2022.10.20-16.12.15:628][124]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/BP_Cowboy1ACF05D44286488ECA7574A5739F9E00.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/BP_Cowboy.uasset'
 [2022.10.20-16.12.15:638][124]AssetCheck: New page: Asset Save: BP_Cowboy
 [2022.10.20-16.12.15:638][124]LogContentValidation: Display: Validating Blueprint /Game/Cowboy/BP_Cowboy.BP_Cowboy
+[2022.10.20-16.13.05:813][427]BlueprintLog: New page: Compile BP_Cowboy
+[2022.10.20-16.13.05:847][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.10.20-16.13.07:114][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/BP_Cowboy" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/BP_Cowboy.uasset" SILENT=true
+[2022.10.20-16.13.07:124][529]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/BP_CowboyFDD4256D4DEA8BA8028B52B8B127C513.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/BP_Cowboy.uasset'
+[2022.10.20-16.13.07:134][529]AssetCheck: New page: Asset Save: BP_Cowboy
+[2022.10.20-16.13.07:134][529]LogContentValidation: Display: Validating Blueprint /Game/Cowboy/BP_Cowboy.BP_Cowboy
+[2022.10.20-16.13.35:140][615]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Cowboy/Cowboy_AnimBlueprint.Cowboy_AnimBlueprint
+[2022.10.20-16.13.35:150][615]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.10.20-16.13.35:154][615]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.10.20-16.13.35:218][615]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.20-16.13.35:277][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.20-16.13.35:280][615]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.10.20-16.13.36:005][615]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.10.20-16.14.18:831][ 77]BlueprintLog: New page: Compile Cowboy_AnimBlueprint
+[2022.10.20-16.14.18:890][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2022.10.20-16.19.26:012][739]BlueprintLog: New page: Compile Cowboy_AnimBlueprint
+[2022.10.20-16.19.26:056][739]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2022.10.20-16.19.27:947][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Cowboy_AnimBlueprint" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_AnimBlueprint.uasset" SILENT=true
+[2022.10.20-16.19.27:958][919]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Cowboy_AnimBlueprint8475EB70439C46CC3B6F40A3C32E19E0.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_AnimBlueprint.uasset'
+[2022.10.20-16.19.27:969][919]AssetCheck: New page: Asset Save: Cowboy_AnimBlueprint
+[2022.10.20-16.19.27:969][919]LogContentValidation: Display: Validating AnimBlueprint /Game/Cowboy/Cowboy_AnimBlueprint.Cowboy_AnimBlueprint
+[2022.10.20-16.19.30:010][143]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.20-16.19.30:015][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.20-16.19.30:015][143]PIE: New page: PIE session: MainMap (Oct 20, 2022, 8:19:30 PM)
+[2022.10.20-16.19.30:015][143]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.10.20-16.19.30:017][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001583s)
+[2022.10.20-16.19.30:017][143]LogAIModule: Creating AISystem for world MainMap
+[2022.10.20-16.19.30:018][143]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2022.10.20-16.19.30:018][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.002621s)
+[2022.10.20-16.19.30:045][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.10.20-16.19.30:046][143]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.10.20-16.19.30:046][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.20-16.19.30:046][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.20-16.19.30:046][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.20-16.19.30:046][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.20-16.19.30:046][143]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.20-16.19.30:046][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.20-16.19.30:046][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.20-16.19.30:046][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.20-16.19.30:046][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.20-16.19.30:046][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.20-16.19.30:046][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.20-16.19.30:046][143]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.20-16.19.30:050][143]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.20-16.19.30:050][143]LogAudioMixer: Display: 1: FrontRight
+[2022.10.20-16.19.30:058][143]LogAudioMixer: Display: Using Audio Device Auriculares (2- Xbox Controller)
+[2022.10.20-16.19.30:058][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.20-16.19.30:058][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.20-16.19.30:058][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.20-16.19.30:058][143]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.20-16.19.30:059][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.20-16.19.30:059][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.20-16.19.30:060][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.20-16.19.30:060][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.20-16.19.30:060][143]LogInit: FAudioDevice initialized.
+[2022.10.20-16.19.30:060][143]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMap'.
+[2022.10.20-16.19.30:105][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-16.19.30:105][143]LogLoad: Game class is 'BP_MainGameMode_C'
+[2022.10.20-16.19.30:106][143]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.10.20-18.19.30
+[2022.10.20-16.19.30:106][143]LogWorld: Bringing up level for play took: 0.000498
+[2022.10.20-16.19.30:106][143]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.10.20-16.19.30:110][143]PIE: Server logged in
+[2022.10.20-16.19.30:110][143]PIE: Play in editor total start time 0.095 seconds.
+[2022.10.20-16.19.37:890][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-16.19.37:890][ 61]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.10.20-16.19.37:891][ 61]LogSlate: Window 'cowboy Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.20-16.19.37:894][ 61]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-16.19.37:894][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-16.19.37:903][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.20-16.19.37:919][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-16.19.37:942][ 61]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.20-16.19.37:942][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.20-16.19.37:943][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.20-16.19.37:949][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.10.20-16.19.37:964][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.10.20-16.19.40:744][356]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.20-16.19.40:750][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.20-16.19.40:750][356]PIE: New page: PIE session: MainMap (Oct 20, 2022, 8:19:40 PM)
+[2022.10.20-16.19.40:750][356]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.10.20-16.19.40:752][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001615s)
+[2022.10.20-16.19.40:752][356]LogAIModule: Creating AISystem for world MainMap
+[2022.10.20-16.19.40:753][356]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2022.10.20-16.19.40:753][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.002566s)
+[2022.10.20-16.19.40:778][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.10.20-16.19.40:778][356]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.10.20-16.19.40:779][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.20-16.19.40:779][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.20-16.19.40:779][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.20-16.19.40:779][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.20-16.19.40:779][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.20-16.19.40:779][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.20-16.19.40:779][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.20-16.19.40:779][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.20-16.19.40:779][356]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.20-16.19.40:779][356]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.20-16.19.40:779][356]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.20-16.19.40:779][356]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.20-16.19.40:783][356]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.20-16.19.40:783][356]LogAudioMixer: Display: 1: FrontRight
+[2022.10.20-16.19.40:789][356]LogAudioMixer: Display: Using Audio Device Auriculares (2- Xbox Controller)
+[2022.10.20-16.19.40:789][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.20-16.19.40:789][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.20-16.19.40:789][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.20-16.19.40:790][356]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.20-16.19.40:790][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.20-16.19.40:790][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.20-16.19.40:791][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.20-16.19.40:791][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.20-16.19.40:791][356]LogInit: FAudioDevice initialized.
+[2022.10.20-16.19.40:791][356]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMap'.
+[2022.10.20-16.19.40:839][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-16.19.40:839][356]LogLoad: Game class is 'BP_MainGameMode_C'
+[2022.10.20-16.19.40:840][356]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.10.20-18.19.40
+[2022.10.20-16.19.40:840][356]LogWorld: Bringing up level for play took: 0.000514
+[2022.10.20-16.19.40:840][356]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.10.20-16.19.40:843][356]PIE: Server logged in
+[2022.10.20-16.19.40:844][356]PIE: Play in editor total start time 0.094 seconds.
+[2022.10.20-16.19.52:680][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-16.19.52:680][759]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.10.20-16.19.52:681][759]LogSlate: Window 'cowboy Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.20-16.19.52:683][759]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-16.19.52:683][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-16.19.52:690][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.20-16.19.52:707][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-16.19.52:729][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.20-16.19.52:730][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.20-16.19.52:736][759]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.10.20-16.19.52:765][762]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.10.20-16.25.57:860][651]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.20-16.25.57:865][651]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.20-16.25.57:865][651]LogPlayLevel: [PlayLevel] Compiling Cowboy_AnimBlueprint before play...
+[2022.10.20-16.25.57:912][651]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.10.20-16.25.57:913][651]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (1 blueprints)
+[2022.10.20-16.25.57:914][651]PIE: New page: PIE session: MainMap (Oct 20, 2022, 8:25:57 PM)
+[2022.10.20-16.25.57:914][651]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.10.20-16.25.57:916][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001837s)
+[2022.10.20-16.25.57:916][651]LogAIModule: Creating AISystem for world MainMap
+[2022.10.20-16.25.57:917][651]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2022.10.20-16.25.57:917][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.003018s)
+[2022.10.20-16.25.57:942][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.10.20-16.25.57:942][651]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.10.20-16.25.57:942][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.20-16.25.57:942][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.20-16.25.57:942][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.20-16.25.57:942][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.20-16.25.57:942][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.20-16.25.57:942][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.20-16.25.57:942][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.20-16.25.57:942][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.20-16.25.57:943][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.20-16.25.57:943][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.20-16.25.57:943][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.20-16.25.57:943][651]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.20-16.25.57:947][651]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.20-16.25.57:947][651]LogAudioMixer: Display: 1: FrontRight
+[2022.10.20-16.25.57:954][651]LogAudioMixer: Display: Using Audio Device Auriculares (2- Xbox Controller)
+[2022.10.20-16.25.57:954][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.20-16.25.57:954][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.20-16.25.57:954][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.20-16.25.57:954][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.20-16.25.57:954][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.20-16.25.57:954][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.20-16.25.57:955][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.20-16.25.57:955][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.20-16.25.57:955][651]LogInit: FAudioDevice initialized.
+[2022.10.20-16.25.57:955][651]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMap'.
+[2022.10.20-16.25.57:986][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-16.25.57:986][651]LogLoad: Game class is 'BP_MainGameMode_C'
+[2022.10.20-16.25.57:987][651]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.10.20-18.25.57
+[2022.10.20-16.25.57:987][651]LogWorld: Bringing up level for play took: 0.000454
+[2022.10.20-16.25.57:987][651]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.10.20-16.25.57:990][651]PIE: Server logged in
+[2022.10.20-16.25.57:990][651]PIE: Play in editor total start time 0.126 seconds.
+[2022.10.20-16.26.08:140][863]LogBlueprintUserMessages: [BP_Cowboy_C_0] Hello
+[2022.10.20-16.26.09:207][991]LogBlueprintUserMessages: [BP_Cowboy_C_0] Hello
+[2022.10.20-16.26.16:961][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-16.26.16:961][916]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.10.20-16.26.16:962][916]LogSlate: Window 'cowboy Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.10.20-16.26.16:965][916]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-16.26.16:965][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-16.26.16:971][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.20-16.26.16:990][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-16.26.17:013][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.20-16.26.17:014][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.20-16.26.17:020][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.10.20-16.26.17:038][917]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.10.20-16.27.25:029][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.10.20-16.27.25:130][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/BP_Cowboy" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/BP_Cowboy.uasset" SILENT=true
+[2022.10.20-16.27.25:140][792]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/BP_CowboyD52EFCF74946CF722E5BFB83A4BEA30C.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/BP_Cowboy.uasset'
+[2022.10.20-16.27.25:154][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Cowboy_AnimBlueprint" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_AnimBlueprint.uasset" SILENT=true
+[2022.10.20-16.27.25:167][792]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Cowboy_AnimBlueprint9E03898E4B2E749D225BFA94A09BA5DC.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_AnimBlueprint.uasset'
+[2022.10.20-16.27.25:177][792]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-16.27.25:177][792]LogContentValidation: Display: Validating AnimBlueprint /Game/Cowboy/Cowboy_AnimBlueprint.Cowboy_AnimBlueprint
+[2022.10.20-16.27.25:177][792]LogContentValidation: Display: Validating Blueprint /Game/Cowboy/BP_Cowboy.BP_Cowboy
+[2022.10.20-16.27.53:369][492]BlueprintLog: New page: Compile BP_Cowboy
+[2022.10.20-16.27.53:414][492]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2022.10.20-16.27.54:429][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/BP_Cowboy" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/BP_Cowboy.uasset" SILENT=true
+[2022.10.20-16.27.54:439][572]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/BP_Cowboy7ACD02724D40B17301BB84A8622120E2.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/BP_Cowboy.uasset'
+[2022.10.20-16.27.54:449][572]AssetCheck: New page: Asset Save: BP_Cowboy
+[2022.10.20-16.27.54:449][572]LogContentValidation: Display: Validating Blueprint /Game/Cowboy/BP_Cowboy.BP_Cowboy
+[2022.10.20-16.27.55:971][735]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
