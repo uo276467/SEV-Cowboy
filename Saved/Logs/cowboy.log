@@ -1859,3 +1859,70 @@ Script Stack (0 frames):
 [2022.10.20-14.55.49:858][626]AssetCheck: New page: Asset Save: multiple assets
 [2022.10.20-14.55.49:858][626]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
 [2022.10.20-14.55.49:858][626]LogContentValidation: Display: Validating AnimSequence /Game/Cowboy/Run_Right.Run_Right
+[2022.10.20-14.57.00:326][944]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.20-14.57.00:345][944]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.20-14.57.02:436][183]LogContentBrowser: Attempting asset rename: NewFolder -> Sounds
+[2022.10.20-14.57.02:437][183]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.20-14.57.08:889][489]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\uo276467\Desktop\Nuevo res\escopeta.wav)
+[2022.10.20-14.57.30:293][244]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\uo276467\Desktop\Nuevo res\captus.obj)
+[2022.10.20-14.57.30:299][244]LogFbx: Loading FBX Scene from C:\Users\uo276467\Desktop\Nuevo res\captus.obj
+[2022.10.20-14.57.30:314][244]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.20-14.57.33:277][244]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.20-14.57.33:287][244]LogMaterial: Display: Missing cached shadermap for captusMat in PCD3D_SM5, Default, SM5 (DDC key hash: C289C9A3B3C218B56EA7F5042E64A93224CB7E7E), compiling. 
+[2022.10.20-14.57.33:293][244]LogStaticMesh: Building static mesh captus...
+[2022.10.20-14.57.33:305][244]LogStaticMesh: Built static mesh [0.01s] /Game/Enemies/captus.captus
+[2022.10.20-14.57.33:308][244]LogStaticMesh: Warning: captus has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.10.20-14.57.33:308][244]LogStaticMesh: Warning: captus has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.10.20-14.57.33:311][244]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.20-14.57.33:311][244]FBXImport: Warning: captus has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.10.20-14.57.33:311][244]FBXImport: Warning: captus has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.10.20-14.57.33:456][249]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.57.33:462][249]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.57.33:466][249]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.57.33:990][283]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.20-14.57.33:990][283]LogShaderCompilers: Display: Total job queries 445, among them cache hits 289 (64.94%)
+[2022.10.20-14.57.33:990][283]LogShaderCompilers: Display: Tracking 122 distinct input hashes that result in 76 distinct outputs (62.30%)
+[2022.10.20-14.57.33:990][283]LogShaderCompilers: Display: RAM used: 0.47 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.10.20-14.57.33:990][283]LogShaderCompilers: Display: ================================================
+[2022.10.20-14.57.36:860][620]LogSlate: Window 'Message Log' being destroyed
+[2022.10.20-14.57.36:862][620]LogSlate: Window 'Message Log' being destroyed
+[2022.10.20-14.57.43:344][314]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Enemies/captus.captus
+[2022.10.20-14.57.43:613][315]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2022.10.20-14.58.26:806][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.20-14.58.26:933][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/escopeta" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Sounds/escopeta.uasset" SILENT=true
+[2022.10.20-14.58.26:934][321]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/escopeta12B92BC049EC4E8C7985FE810D3B7397.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Sounds/escopeta.uasset'
+[2022.10.20-14.58.27:033][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/captus" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Enemies/captus.uasset" SILENT=true
+[2022.10.20-14.58.27:042][321]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/captus59E5BBDF43A1A4C37CB79FADF6C79F6B.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Enemies/captus.uasset'
+[2022.10.20-14.58.27:164][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/captusMat" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Enemies/captusMat.uasset" SILENT=true
+[2022.10.20-14.58.27:168][321]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/captusMat56A6E92443161F6F98C7C18E40BA5BA0.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Enemies/captusMat.uasset'
+[2022.10.20-14.58.27:277][321]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-14.58.27:278][321]LogContentValidation: Display: Validating Material /Game/Enemies/captusMat.captusMat
+[2022.10.20-14.58.27:278][321]LogContentValidation: Display: Validating StaticMesh /Game/Enemies/captus.captus
+[2022.10.20-14.58.27:278][321]LogContentValidation: Display: Validating SoundWave /Game/Sounds/escopeta.escopeta
+[2022.10.20-14.58.29:172][450]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-14.58.29:172][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-14.58.40:355][624]LogContentBrowser: Attempting asset rename: captus -> SM_Cactus
+[2022.10.20-14.58.40:737][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/SM_Cactus" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Enemies/SM_Cactus.uasset" SILENT=true
+[2022.10.20-14.58.40:746][624]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/SM_Cactus32BF199C4D81C655E310238D6C86FA74.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Enemies/SM_Cactus.uasset'
+[2022.10.20-14.58.41:000][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.20-14.58.41:008][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.20-14.58.41:010][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.10.20-14.58.41:107][624]SourceControl: rm 'Content/Enemies/captus.uasset'
+[2022.10.20-14.58.41:141][624]AssetCheck: New page: Asset Save: SM_Cactus
+[2022.10.20-14.58.41:141][624]LogContentValidation: Display: Validating StaticMesh /Game/Enemies/SM_Cactus.SM_Cactus
+[2022.10.20-14.59.25:817][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.20-14.59.28:956][637]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.20-14.59.29:069][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.20-14.59.29:076][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.20-14.59.29:079][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.10.20-14.59.29:164][637]SourceControl: rm 'Content/Enemies/captusMat.uasset'
