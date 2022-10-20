@@ -1926,3 +1926,51 @@ Script Stack (0 frames):
 [2022.10.20-14.59.29:076][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2022.10.20-14.59.29:079][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
 [2022.10.20-14.59.29:164][637]SourceControl: rm 'Content/Enemies/captusMat.uasset'
+[2022.10.20-15.09.29:814][369]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.20-15.09.33:287][369]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.20-15.09.33:290][369]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.20-15.09.33:297][369]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.20-15.09.41:996][392]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MainGameMode
+[2022.10.20-15.09.42:065][392]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.20-15.10.38:099][996]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.20-15.10.38:118][996]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.20-15.11.02:077][717]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.10.20-15.11.39:505][840]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.20-15.11.39:507][840]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.20-15.12.40:270][318]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_MainGameMode.BP_MainGameMode
+[2022.10.20-15.12.40:396][318]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.10.20-15.13.00:047][559]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-15.13.00:047][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-15.13.03:156][873]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_MainGameMode.BP_MainGameMode
+[2022.10.20-15.13.18:000][584]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-15.13.18:000][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-15.13.18:040][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_MainGameMode.BP_MainGameMode
+[2022.10.20-15.14.25:223][139]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.20-15.14.25:242][139]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.20-15.14.25:251][139]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.20-15.14.40:772][988]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Cowboy
+[2022.10.20-15.14.40:841][988]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.20-15.15.04:425][761]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cowboy/BP_Cowboy.BP_Cowboy
+[2022.10.20-15.20.23:352][605]BlueprintLog: New page: Compile BP_Cowboy
+[2022.10.20-15.20.23:395][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.10.20-15.20.58:887][618]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.20-15.20.58:889][618]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.10.20-15.20.58:903][618]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2022.10.20-15.21.04:515][618]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2022.10.20-15.21.04:519][618]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2022.10.20-15.21.04:529][618]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2022.10.20-15.21.15:932][955]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> Cowboy_AnimBlueprint
+[2022.10.20-15.21.16:004][955]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2022.10.20-15.22.01:787][285]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Cowboy/Cowboy_AnimBlueprint.Cowboy_AnimBlueprint
+[2022.10.20-15.22.01:792][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.20-15.22.04:208][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.10.20-15.22.04:321][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MainGameMode" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/BP_MainGameMode.uasset" SILENT=true
+[2022.10.20-15.22.04:324][502]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/BP_MainGameMode1543475B46362D356CA626BCBBA552CC.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/BP_MainGameMode.uasset'
+[2022.10.20-15.22.04:452][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/BP_Cowboy" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/BP_Cowboy.uasset" SILENT=true
+[2022.10.20-15.22.04:461][502]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/BP_CowboyD698F200443668B5844C8388CD3655F8.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/BP_Cowboy.uasset'
+[2022.10.20-15.22.04:593][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Cowboy_AnimBlueprint" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_AnimBlueprint.uasset" SILENT=true
+[2022.10.20-15.22.04:600][502]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Cowboy_AnimBlueprintF73050E6433087B4A5BD6E95696E127C.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_AnimBlueprint.uasset'
+[2022.10.20-15.22.04:728][502]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-15.22.04:728][502]LogContentValidation: Display: Validating Blueprint /Game/BP_MainGameMode.BP_MainGameMode
+[2022.10.20-15.22.04:728][502]LogContentValidation: Display: Validating Blueprint /Game/Cowboy/BP_Cowboy.BP_Cowboy
+[2022.10.20-15.22.04:728][502]LogContentValidation: Display: Validating AnimBlueprint /Game/Cowboy/Cowboy_AnimBlueprint.Cowboy_AnimBlueprint
