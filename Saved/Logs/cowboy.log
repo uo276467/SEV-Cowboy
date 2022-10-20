@@ -1082,3 +1082,780 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2022.10.20-14.40.58:770][320]LogContentValidation: Display: Validating PhysicsAsset /Game/Cowboy/Idle_PhysicsAsset.Idle_PhysicsAsset
 [2022.10.20-14.40.58:770][320]LogContentValidation: Display: Validating Skeleton /Game/Cowboy/Idle_Skeleton.Idle_Skeleton
 [2022.10.20-14.40.58:770][320]LogContentValidation: Display: Validating SkeletalMesh /Game/Cowboy/Idle.Idle
+[2022.10.20-14.42.04:258][412]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.10.20-14.42.04:265][412]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.10.20-14.42.11:708][288]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Cowboy
+[2022.10.20-14.42.11:764][288]LogContentBrowser: End creating deferred item NewMaterial
+[2022.10.20-14.42.30:658][420]LogContentBrowser: Attempting asset rename: Idle_Skeleton -> Cowboy_Skeleton
+[2022.10.20-14.42.31:067][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Cowboy_Skeleton" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_Skeleton.uasset" SILENT=true
+[2022.10.20-14.42.31:068][420]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Cowboy_Skeleton4F73C20146BF78646BFBA2B239E7BAD7.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_Skeleton.uasset'
+[2022.10.20-14.42.31:164][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Idle_Skeleton" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle_Skeleton.uasset" SILENT=true
+[2022.10.20-14.42.31:165][420]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Idle_Skeleton8046E0EF43FCD6AEC878DABDE2DFBC0F.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle_Skeleton.uasset'
+[2022.10.20-14.42.31:328][420]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-14.42.31:328][420]LogContentValidation: Display: Validating Skeleton /Game/Cowboy/Cowboy_Skeleton.Cowboy_Skeleton
+[2022.10.20-14.42.31:328][420]LogContentValidation: Display: Validating ObjectRedirector /Game/Cowboy/Idle_Skeleton.Idle_Skeleton
+[2022.10.20-14.42.44:062][910]LogContentBrowser: Attempting asset rename: Idle -> Sk_Cowboy
+[2022.10.20-14.42.44:475][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Sk_Cowboy" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Sk_Cowboy.uasset" SILENT=true
+[2022.10.20-14.42.44:486][910]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Sk_CowboyD80E95304EA08C853F4328A5A3AB7397.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Sk_Cowboy.uasset'
+[2022.10.20-14.42.44:591][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Idle" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle.uasset" SILENT=true
+[2022.10.20-14.42.44:592][910]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Idle34BB964548321BCEC6287491E040E818.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle.uasset'
+[2022.10.20-14.42.44:778][910]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-14.42.44:778][910]LogContentValidation: Display: Validating SkeletalMesh /Game/Cowboy/Sk_Cowboy.Sk_Cowboy
+[2022.10.20-14.42.44:778][910]LogContentValidation: Display: Validating ObjectRedirector /Game/Cowboy/Idle.Idle
+[2022.10.20-14.42.58:880][556]LogContentBrowser: Attempting asset rename: Idle_PhysicsAsset -> Cowboy_PhysicsAsset
+[2022.10.20-14.42.59:308][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Cowboy_PhysicsAsset" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_PhysicsAsset.uasset" SILENT=true
+[2022.10.20-14.42.59:313][556]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Cowboy_PhysicsAsset1ED2069C448CA3E152E478950B1643C0.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_PhysicsAsset.uasset'
+[2022.10.20-14.42.59:397][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Idle_PhysicsAsset" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle_PhysicsAsset.uasset" SILENT=true
+[2022.10.20-14.42.59:398][556]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Idle_PhysicsAssetB48F947D4A2809755E648BBF1787FEE0.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle_PhysicsAsset.uasset'
+[2022.10.20-14.42.59:561][556]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-14.42.59:561][556]LogContentValidation: Display: Validating PhysicsAsset /Game/Cowboy/Cowboy_PhysicsAsset.Cowboy_PhysicsAsset
+[2022.10.20-14.42.59:561][556]LogContentValidation: Display: Validating ObjectRedirector /Game/Cowboy/Idle_PhysicsAsset.Idle_PhysicsAsset
+[2022.10.20-14.43.20:005][960]LogContentBrowser: Attempting asset rename: Sk_Cowboy -> SK_Cowboy
+[2022.10.20-14.43.20:403][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Sk_Cowboy" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Sk_Cowboy.uasset" SILENT=true
+[2022.10.20-14.43.20:411][960]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Sk_Cowboy79691A704ED89CAFCB285BA83EE08283.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Sk_Cowboy.uasset'
+[2022.10.20-14.43.20:522][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.20-14.43.20:604][960]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.20-14.43.20:672][960]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.068 s
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: 
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: Found circular redirect from /Game/Cowboy/Sk_Cowboy.SK_Cowboy to /Game/Cowboy/SK_Cowboy.SK_Cowboy! Returning None instead
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: Stack: 
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe97eff53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe9363e30 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe96eebcd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe968e0aa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe95e351a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe95e3d44 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe95e38c2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe933549d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe7bb9e08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe7ba28c1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe7670203 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe766eb1d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffe7684e50 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffc0155d3e UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffc01d1112 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffa9edbd73 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffa9edc061 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffa9edc13f UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffc0eac426 UE4Editor-ContentBrowserData.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffc0924b0e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffc096a8ff UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffc098ad7b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffc0969b27 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffef0c40e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffef0a9167 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffef050448 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffef02f527 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffef0b1bf6 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffef0b3008 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffeefb1114 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffeee02112 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffeee65087 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007fffeee58756 UE4Editor-Slate.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007ff807d6bcc8 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007ff807d592b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007ff807d6e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.20-14.43.20:672][960]LogOutputDevice: Error: [Callstack] 0x00007ff807d54410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff839c6e858 USER32.dll!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff839c6e299 USER32.dll!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff807d6fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff623bc7621 UE4Editor.exe!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff623be0fcc UE4Editor.exe!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff623be10ba UE4Editor.exe!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff623be40dd UE4Editor.exe!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff623bf5984 UE4Editor.exe!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff623bf853a UE4Editor.exe!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff8390c7034 KERNEL32.DLL!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: [Callstack] 0x00007ff83a1c26a1 ntdll.dll!UnknownFunction []
+[2022.10.20-14.43.20:673][960]LogOutputDevice: Error: 
+[2022.10.20-14.43.20:675][960]LogStats:                SubmitErrorReport -  0.000 s
+[2022.10.20-14.43.22:056][960]LogStats:                    SendNewReport -  1.382 s
+[2022.10.20-14.43.22:056][960]LogStats:             FDebug::EnsureFailed -  1.453 s
+[2022.10.20-14.43.22:057][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Cowboy_PhysicsAsset" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_PhysicsAsset.uasset" SILENT=true
+[2022.10.20-14.43.22:059][960]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Cowboy_PhysicsAsset9C39E98442122FA855767393845832F0.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Cowboy_PhysicsAsset.uasset'
+[2022.10.20-14.43.22:059][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Idle" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle.uasset" SILENT=true
+[2022.10.20-14.43.22:060][960]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/IdleB09347314023E5A58FBFD69E17C3EF41.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle.uasset'
+[2022.10.20-14.43.22:095][960]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-14.43.22:095][960]LogContentValidation: Display: Validating PhysicsAsset /Game/Cowboy/Cowboy_PhysicsAsset.Cowboy_PhysicsAsset
+[2022.10.20-14.43.22:095][960]LogContentValidation: Display: Validating SkeletalMesh /Game/Cowboy/Sk_Cowboy.SK_Cowboy
+[2022.10.20-14.43.22:095][960]LogContentValidation: Display: Validating ObjectRedirector /Game/Cowboy/Idle.Idle
+[2022.10.20-14.43.26:010][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/M_Cowboy" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/M_Cowboy.uasset" SILENT=true
+[2022.10.20-14.43.26:014][384]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/M_Cowboy654F12514336A7DA3D5F1C8140C8DCC7.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/M_Cowboy.uasset'
+[2022.10.20-14.43.26:099][384]AssetCheck: New page: Asset Save: M_Cowboy
+[2022.10.20-14.43.26:099][384]LogContentValidation: Display: Validating Material /Game/Cowboy/M_Cowboy.M_Cowboy
+[2022.10.20-14.43.59:016][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\uo276467\Desktop\Nuevo res\TexturaMagicaVoxel.png)
+[2022.10.20-14.43.59:019][464]LogTexture: Display: Building textures: TexturaMagicaVoxel (BGRA8, 256X1)
+[2022.10.20-14.44.27:216][197]LogContentBrowser: Attempting asset rename: TexturaMagicaVoxel -> T_VoxelColors
+[2022.10.20-14.44.27:622][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/T_VoxelColors" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/T_VoxelColors.uasset" SILENT=true
+[2022.10.20-14.44.27:623][197]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/T_VoxelColors8DD73E164AD4A22FC8F900A6C9639407.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/T_VoxelColors.uasset'
+[2022.10.20-14.44.27:858][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.20-14.44.27:866][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.20-14.44.27:869][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.10.20-14.44.27:899][197]AssetCheck: New page: Asset Save: T_VoxelColors
+[2022.10.20-14.44.27:899][197]LogContentValidation: Display: Validating Texture2D /Game/Cowboy/T_VoxelColors.T_VoxelColors
+[2022.10.20-14.44.32:670][751]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Cowboy/T_VoxelColors.T_VoxelColors
+[2022.10.20-14.44.32:692][751]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.10.20-14.44.46:637][987]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Cowboy/M_Cowboy.M_Cowboy
+[2022.10.20-14.44.46:640][987]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: F07A40185440C81F91C949D6DA173478934B085E), compiling. 
+[2022.10.20-14.44.46:669][987]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.10.20-14.44.46:723][987]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: AC5BDEE41ACC60D96580BACB41A80E9B14EE9677), compiling. 
+[2022.10.20-14.44.46:730][987]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.44.46:796][988]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.44.47:472][ 50]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.20-14.44.47:472][ 50]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2022.10.20-14.44.47:472][ 50]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.10.20-14.44.47:472][ 50]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.10.20-14.44.47:472][ 50]LogShaderCompilers: Display: ================================================
+[2022.10.20-14.44.47:652][ 71]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.44.47:703][ 77]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.44.47:703][ 77]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.44.47:703][ 77]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.44.47:703][ 77]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.23:673][226]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 9A66F78912E55FF0C1E71A6486323717A3F6C214), compiling. 
+[2022.10.20-14.45.23:675][226]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5235809E05E19BC1C93DAD1C27DB94212CEE8035), compiling. 
+[2022.10.20-14.45.23:677][226]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.45.23:699][228]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.45.23:700][228]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.45.23:700][228]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.45.23:700][228]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.45.23:700][228]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.23:712][230]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.45.23:712][230]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.45.23:712][230]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.45.30:672][899]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C17A65B177CBC94EB45BC1F12B7401B23EBC8B3E), compiling. 
+[2022.10.20-14.45.35:690][347]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 01A5EE758A6B9D08E52DAC0F78A17E64CE03B688), compiling. 
+[2022.10.20-14.45.35:691][347]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 80AAE4C8B64B961955D64F19FCAB1D454ACF2D5B), compiling. 
+[2022.10.20-14.45.35:693][347]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.45.35:707][349]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.35:716][350]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.45.35:716][350]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.45.35:716][350]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.45.35:716][350]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.36:607][454]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 503654DFCA333A3C4A31E6E1F7786EC802C8F652), compiling. 
+[2022.10.20-14.45.36:609][454]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 59DD1AFE6929D5B43AE4A3FC5AB990B015E8ABF2), compiling. 
+[2022.10.20-14.45.36:610][454]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.20-14.45.36:613][454]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.45.36:627][456]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.36:636][457]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.45.36:636][457]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.45.36:636][457]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.45.36:636][457]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.41:605][935]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 39059640B53052753DD067B8087753C02FF06C7B), compiling. 
+[2022.10.20-14.45.41:606][935]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8497791202662BE0AB7B1B16AACC92351FA4D1FA), compiling. 
+[2022.10.20-14.45.41:608][935]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.45.41:622][937]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.41:638][938]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.45.41:638][938]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.45.41:638][938]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.45.41:638][938]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.43:024][ 35]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 2E249E7CC9B7E400610D0A21454741916FAC3186), compiling. 
+[2022.10.20-14.45.43:025][ 35]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F2B10F01AA30B587D012D67CED84E9C4B8517C18), compiling. 
+[2022.10.20-14.45.43:026][ 35]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.45.43:040][ 37]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.45.43:041][ 37]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.43:049][ 38]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.45.43:049][ 38]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.45.43:049][ 38]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.45.43:049][ 38]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.43:052][ 39]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.45.43:052][ 39]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.45.43:052][ 39]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.45.48:631][636]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: AC5509E616E98BE7E2BA6E74C179E8A2B491593F), compiling. 
+[2022.10.20-14.45.48:632][636]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F52BFF8CDEEFA127F0B9A0F37FA023A7F0E9C842), compiling. 
+[2022.10.20-14.45.48:633][636]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.20-14.45.48:636][636]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.45.48:652][638]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.48:661][639]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.45.48:661][639]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.45.48:661][639]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.45.48:661][639]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.57:773][354]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 98E9EAAC7F4CFA0DE09C2D577DF249D5B88FA144), compiling. 
+[2022.10.20-14.45.57:774][354]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 68D3945FA0FAF8AD43FFED1A34344786D82309E3), compiling. 
+[2022.10.20-14.45.57:776][354]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.45.57:779][355]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.45.57:783][356]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.45.57:783][356]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.45.57:783][356]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.45.57:785][356]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.20-14.45.57:785][356]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.10.20-14.45.57:785][356]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.10.20-14.45.57:785][356]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.10.20-14.45.57:785][356]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.10.20-14.45.57:785][356]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.10.20-14.45.57:785][356]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.10.20-14.45.57:785][356]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.45.57:785][356]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.10.20-14.45.57:785][356]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.45.58:241][388]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.45.58:484][416]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.20-14.45.58:484][416]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.20-14.45.58:484][416]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.45.58:484][416]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.46.04:223][ 36]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 50D2772D02760CE410FE2F6E179346A81027AE13), compiling. 
+[2022.10.20-14.46.04:224][ 36]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.46.04:246][ 38]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.20-14.46.04:246][ 38]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.20-14.46.04:246][ 38]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.46.04:246][ 38]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.46.11:472][687]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: A9FD86529D66569C7428E2456659A598F47574D4), compiling. 
+[2022.10.20-14.46.11:506][687]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.46.11:541][687]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.46.12:037][733]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.46.12:087][739]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.20-14.46.12:087][739]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.20-14.46.12:087][739]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.46.12:087][739]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.46.20:593][502]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5B0874FED2728CF1D474A2B7D23CCB5CD651F9B9), compiling. 
+[2022.10.20-14.46.20:602][504]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.46.20:602][504]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.46.20:602][504]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.46.20:602][504]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.46.36:757][923]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 607791EB9C71533B4C68BA81E849B4E7A52D5981), compiling. 
+[2022.10.20-14.46.36:759][923]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 2FC05A86708FD5311D26043BC31BD0D8744FDA70), compiling. 
+[2022.10.20-14.46.36:760][923]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.46.36:763][924]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.46.36:768][925]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.46.36:770][925]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.46.37:232][975]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.46.37:483][  5]MaterialEditorStats: Base pass shader: 111 instructions
+[2022.10.20-14.46.37:483][  5]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2022.10.20-14.46.37:483][  5]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.46.37:483][  5]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.46.50:261][236]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 306A0F1853BA99CF4C536D55B0C0517204FCE0BB), compiling. 
+[2022.10.20-14.46.50:263][236]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.46.50:292][238]MaterialEditorStats: Base pass shader: 111 instructions
+[2022.10.20-14.46.50:292][238]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2022.10.20-14.46.50:292][238]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.46.50:292][238]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.46.57:066][883]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 8698E0203F9C59E60E44FBED93D0068A0D86B0D2), compiling. 
+[2022.10.20-14.46.57:068][883]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: EF5BE2C28F701E7F7993CB5EFF05B82A76D5387D), compiling. 
+[2022.10.20-14.46.57:069][883]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.46.57:082][885]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.46.57:090][886]MaterialEditorStats: Base pass shader: 111 instructions
+[2022.10.20-14.46.57:090][886]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2022.10.20-14.46.57:090][886]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.46.57:090][886]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.47.01:933][308]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 75B7D33DC280C062BF56DB18A4D0501793A2CFB5), compiling. 
+[2022.10.20-14.47.01:935][308]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.47.01:938][309]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.47.01:943][310]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.47.01:952][311]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.47.02:548][363]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.47.02:698][381]MaterialEditorStats: Base pass shader: 110 instructions
+[2022.10.20-14.47.02:698][381]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2022.10.20-14.47.02:698][381]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.47.02:698][381]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.47.07:833][863]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 6CA23D12A4FFEB2D0F61D0B38A96BC88C9FE0CB6), compiling. 
+[2022.10.20-14.47.07:835][863]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: F5A26E12FA813DFFE57DF08A107D746455EDE5A5), compiling. 
+[2022.10.20-14.47.07:836][863]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.47.07:839][864]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.47.07:845][865]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.47.07:853][866]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.47.08:361][918]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.47.08:419][925]MaterialEditorStats: Base pass shader: 110 instructions
+[2022.10.20-14.47.08:419][925]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2022.10.20-14.47.08:419][925]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.47.08:419][925]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.47.21:059][357]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 3D58D754581232263EB3F088916CA481584A65CC), compiling. 
+[2022.10.20-14.47.21:061][357]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 521B0151A68C7531A490ED9845C534A4BC74FE4A), compiling. 
+[2022.10.20-14.47.21:062][357]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.47.21:065][358]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.47.21:070][359]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.10.20-14.47.21:078][360]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.47.21:079][360]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.47.21:568][410]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.47.21:643][419]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.10.20-14.47.21:643][419]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.10.20-14.47.21:643][419]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.47.21:643][419]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.47.29:091][159]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: BE1C2A075C9E30707ECD85D73D7E38AB4594D0A3), compiling. 
+[2022.10.20-14.47.29:093][159]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: B9D7F1CBB7453B90DD2E222D99AD6B2F8124DC92), compiling. 
+[2022.10.20-14.47.29:094][159]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.47.29:097][160]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.47.29:104][161]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.47.29:111][162]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.47.29:651][216]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.47.29:726][225]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.47.29:726][225]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.47.29:726][225]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.47.29:726][225]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.47.46:874][131]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 095B8F90983158952CB5F907D51FD3648A7E1FE5), compiling. 
+[2022.10.20-14.47.46:875][131]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.47.46:901][133]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.47.46:901][133]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.47.46:901][133]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.47.46:901][133]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.48.06:896][379]LogSlate: Window 'M_Cowboy' being destroyed
+[2022.10.20-14.48.16:305][447]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: EF91E6EF9C586EC027C0B6A0360585E643BA4F56), compiling. 
+[2022.10.20-14.48.16:307][447]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F3C6D0DC360CF4593B33B4D29DBA1F442A599D7), compiling. 
+[2022.10.20-14.48.16:348][448]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.20-14.48.16:348][448]LogShaderCompilers: Display: Total job queries 246, among them cache hits 150 (60.98%)
+[2022.10.20-14.48.16:348][448]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 52 distinct outputs (60.47%)
+[2022.10.20-14.48.16:348][448]LogShaderCompilers: Display: RAM used: 0.34 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2022.10.20-14.48.16:348][448]LogShaderCompilers: Display: ================================================
+[2022.10.20-14.48.40:690][695]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: FA29E5294C6BC4CC117D4DB8EB75F84782A5C363), compiling. 
+[2022.10.20-14.48.40:691][695]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 12F312922A9FB330C636D8A7A94C118F5E503041), compiling. 
+[2022.10.20-14.48.40:693][695]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 0A5B1FB74D7685D424576968EBE3DBC3974257CC), compiling. 
+[2022.10.20-14.48.40:695][695]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.48.40:700][696]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.48.40:712][697]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.48.40:722][698]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.48.40:722][698]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.48.40:722][698]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.48.40:722][698]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.48.40:722][698]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.48.40:722][698]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.48.40:722][698]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.48.50:509][794]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: F7CD874E98DAAD3EF9222AF47C226E8DDB807287), compiling. 
+[2022.10.20-14.48.50:510][794]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FFE746E82BA62A9C404A098829D4B6D24BB29F6B), compiling. 
+[2022.10.20-14.48.50:511][794]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 8AB7D91F26F3B1FE3B04C8B148600016FC58B78A), compiling. 
+[2022.10.20-14.48.50:512][794]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.48.50:538][796]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.48.50:538][796]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.48.50:538][796]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.48.50:538][796]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.49.00:028][821]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 32D50E8B9EB49254DBDE0C31E64C091461412D36), compiling. 
+[2022.10.20-14.49.00:029][821]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CF79DFBC6CB7D82D71E95FB49B5D6CEBCFD1CF7A), compiling. 
+[2022.10.20-14.49.00:031][821]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: FF0F58BC75E039FB1A54ABFE1444E5023D48680E), compiling. 
+[2022.10.20-14.49.00:032][821]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.49.00:036][822]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.49.00:050][823]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.10.20-14.49.00:050][823]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.10.20-14.49.00:050][823]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.10.20-14.49.00:050][823]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.20-14.49.45:230][988]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: EFEDE97CA98064433AEFB2F8FBA45B12FC58CC35), compiling. 
+[2022.10.20-14.49.45:231][988]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B6180D29E9E8B134D9924B41F41138BB175D031), compiling. 
+[2022.10.20-14.49.45:233][988]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.49.45:233][988]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.45:233][988]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.45:236][989]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.49.45:241][990]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.20-14.49.45:241][990]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.10.20-14.49.45:241][990]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.49.45:241][990]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.10.20-14.49.45:281][990]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.10.20-14.49.45:281][990]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.10.20-14.49.45:281][990]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.10.20-14.49.45:281][990]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.10.20-14.49.45:281][990]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.10.20-14.49.45:281][990]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.10.20-14.49.45:281][990]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.49.45:281][990]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.10.20-14.49.45:281][990]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.49.45:841][ 36]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.20-14.49.45:841][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.45:841][ 36]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.46:029][ 44]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.10.20-14.49.46:029][ 44]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.10.20-14.49.46:029][ 44]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.20-14.49.46:029][ 44]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.20-14.49.46:029][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.46:029][ 44]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.48:846][258]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 3BF62117DBB9E0782BFDC9E4C75144BD9E05B493), compiling. 
+[2022.10.20-14.49.48:847][258]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.49.48:847][258]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.48:847][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.48:859][260]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.20-14.49.48:859][260]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.48:859][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.48:879][261]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.10.20-14.49.48:879][261]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.10.20-14.49.48:879][261]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.20-14.49.48:879][261]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.20-14.49.48:879][261]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.48:879][261]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.49:879][331]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: A89255634712F2C740B31C91BDC69B7CA47D9E04), compiling. 
+[2022.10.20-14.49.49:880][331]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.49.49:880][331]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.49:880][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.49:914][333]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.10.20-14.49.49:914][333]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.10.20-14.49.49:914][333]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.20-14.49.49:914][333]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.20-14.49.49:914][333]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.49:914][333]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.50:272][374]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 63425092D2F711159A89F9B64A61917D2B6D1ABD), compiling. 
+[2022.10.20-14.49.50:273][374]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.49.50:273][374]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.50:273][374]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.50:295][376]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.20-14.49.50:295][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.50:296][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.50:304][377]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.10.20-14.49.50:304][377]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.10.20-14.49.50:304][377]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.20-14.49.50:304][377]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.20-14.49.50:304][377]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.50:304][377]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.50:838][417]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 55AB4ED44F7D0FFC5D6C2CF317AE2CE9A691BBF2), compiling. 
+[2022.10.20-14.49.50:840][417]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.20-14.49.50:840][417]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.50:840][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.50:854][419]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.20-14.49.50:854][419]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.50:854][419]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.50:862][420]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.10.20-14.49.50:862][420]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.10.20-14.49.50:862][420]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.20-14.49.50:862][420]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.20-14.49.50:862][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.49.50:862][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.49.55:511][459]LogSlate: Window 'Warning: No Preview Mesh Found' being destroyed
+[2022.10.20-14.50.01:239][ 67]LogMaterialEditor: Saving and Compiling material M_Cowboy
+[2022.10.20-14.50.01:505][ 67]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 03C82AD71488CD2F40E6289D907CEADF36DA4404), compiling. 
+[2022.10.20-14.50.01:520][ 67]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: B141B07E594CA1F53C9295C0247BE9E7527260F3), compiling. 
+[2022.10.20-14.50.01:548][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.20-14.50.01:553][ 67]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.50.01:762][ 67]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.10.20-14.50.01:763][ 67]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.20-14.50.01:773][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.20-14.50.01:881][ 67]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.10.20-14.50.01:890][ 67]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2022.10.20-14.50.01:890][ 67]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2022.10.20-14.50.01:890][ 67]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2022.10.20-14.50.01:890][ 67]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.10.20-14.50.01:890][ 67]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2022.10.20-14.50.01:890][ 67]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.50.01:907][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/M_Cowboy" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/M_Cowboy.uasset" SILENT=true
+[2022.10.20-14.50.01:913][ 67]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/M_Cowboy5AFD25654D67E9E9549906871EF74482.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/M_Cowboy.uasset'
+[2022.10.20-14.50.01:922][ 67]AssetCheck: New page: Asset Save: M_Cowboy
+[2022.10.20-14.50.01:923][ 67]LogContentValidation: Display: Validating Material /Game/Cowboy/M_Cowboy.M_Cowboy
+[2022.10.20-14.50.01:927][ 67]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.20-14.50.01:927][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.50.01:927][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.50.02:267][ 96]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.20-14.50.02:267][ 96]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.50.02:267][ 96]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.50.02:276][ 97]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.10.20-14.50.02:276][ 97]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.10.20-14.50.02:276][ 97]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.20-14.50.02:276][ 97]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.20-14.50.02:276][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.50.02:276][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.50.20:154][ 63]LogMaterial: Display: Material /Game/Cowboy/M_Cowboy.M_Cowboy needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.20-14.50.20:163][ 63]LogMaterial: Display: Material /Engine/Transient.M_Cowboy needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.20-14.50.20:164][ 63]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 5163DA5E90B1CCA93D299640D190DA7DB82942EB), compiling. 
+[2022.10.20-14.50.20:178][ 63]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.10.20-14.50.20:178][ 63]LogMaterial: Display: Missing cached shadermap for M_Cowboy in PCD3D_SM5, Default, SM5 (DDC key hash: 6672127AC6508E9CDA40455E140E7B5D511B9F52), compiling. 
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.50.20:197][ 63]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.10.20-14.50.20:219][ 63]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2022.10.20-14.50.20:219][ 63]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2022.10.20-14.50.20:219][ 63]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.10.20-14.50.20:219][ 63]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.20-14.50.20:219][ 63]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.50.20:219][ 63]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.50.20:405][ 73]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2022.10.20-14.50.20:405][ 73]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.50.20:460][ 79]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.10.20-14.50.20:460][ 79]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.50.20:472][ 80]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.10.20-14.50.20:473][ 80]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.50.20:569][ 88]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.10.20-14.50.20:570][ 88]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.20-14.50.20:836][114]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.10.20-14.50.20:836][114]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.10.20-14.50.20:836][114]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.10.20-14.50.20:836][114]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2022.10.20-14.50.20:836][114]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.20-14.50.20:836][114]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.10.20-14.50.20:836][114]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.20-14.51.24:028][ 56]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.10.20-14.51.25:816][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.10.20-14.51.26:820][356]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.10.20-14.51.42:445][ 45]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.10.20-14.52.01:591][283]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.10.20-14.52.07:530][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.20-14.52.07:530][903]PIE: New page: PIE session: MainMap (Oct 20, 2022, 6:52:07 PM)
+[2022.10.20-14.52.07:530][903]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMap
+[2022.10.20-14.52.07:532][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001733s)
+[2022.10.20-14.52.07:533][903]LogAIModule: Creating AISystem for world MainMap
+[2022.10.20-14.52.07:533][903]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2022.10.20-14.52.07:533][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMap.MainMap to /Game/UEDPIE_0_MainMap.MainMap (0.002896s)
+[2022.10.20-14.52.07:538][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.20-14.52.07:539][903]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.20-14.52.07:539][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.20-14.52.07:539][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.20-14.52.07:539][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.20-14.52.07:539][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.20-14.52.07:539][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.20-14.52.07:539][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.20-14.52.07:539][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.20-14.52.07:539][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.20-14.52.07:539][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.20-14.52.07:539][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.20-14.52.07:539][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.20-14.52.07:539][903]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.20-14.52.07:543][903]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.20-14.52.07:543][903]LogAudioMixer: Display: 1: FrontRight
+[2022.10.20-14.52.07:550][903]LogAudioMixer: Display: Using Audio Device 2475W (2- NVIDIA High Definition Audio)
+[2022.10.20-14.52.07:551][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.20-14.52.07:551][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.20-14.52.07:551][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.20-14.52.07:551][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.20-14.52.07:551][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.20-14.52.07:551][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.20-14.52.07:552][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.20-14.52.07:552][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.20-14.52.07:552][903]LogInit: FAudioDevice initialized.
+[2022.10.20-14.52.07:552][903]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMap'.
+[2022.10.20-14.52.07:558][903]LogLoad: Game class is 'GameModeBase'
+[2022.10.20-14.52.07:559][903]LogWorld: Bringing World /Game/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.10.20-16.52.07
+[2022.10.20-14.52.07:559][903]LogWorld: Bringing up level for play took: 0.000636
+[2022.10.20-14.52.07:559][903]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.10.20-14.52.07:561][903]PIE: Server logged in
+[2022.10.20-14.52.07:562][903]PIE: Play in editor total start time 0.032 seconds.
+[2022.10.20-14.52.28:350][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-14.52.28:350][293]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMap
+[2022.10.20-14.52.28:350][293]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-14.52.28:350][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-14.52.28:358][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.20-14.52.28:371][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-14.52.28:374][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.20-14.52.28:374][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.20-14.52.28:375][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.20-14.52.28:377][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.20-14.52.28:378][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.20-14.52.28:425][296]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.10.20-14.52.32:136][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-14.52.32:140][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.20-14.52.32:146][715]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/MainMap8D3B3672427BC3643D2CBEBF6F18DFD8.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/MainMap.umap'
+[2022.10.20-14.52.32:203][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.10.20-14.52.32:214][715]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/MainMap_BuiltData49CF718B4A68DB2F2BD829854C076FE5.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/MainMap_BuiltData.uasset'
+[2022.10.20-14.52.32:221][715]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-14.52.32:221][715]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
+[2022.10.20-14.52.32:221][715]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.10.20-14.52.41:439][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.20-14.52.41:504][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/M_Cowboy" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/M_Cowboy.uasset" SILENT=true
+[2022.10.20-14.52.41:505][800]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/M_Cowboy7D8D33B649CBE9989F40C4A011D4C3F9.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/M_Cowboy.uasset'
+[2022.10.20-14.52.41:516][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Sk_Cowboy" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Sk_Cowboy.uasset" SILENT=true
+[2022.10.20-14.52.41:527][800]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Sk_CowboyA8E5BE2747079C8861C017AA7C56D1C9.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Sk_Cowboy.uasset'
+[2022.10.20-14.52.41:534][800]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-14.52.41:534][800]LogContentValidation: Display: Validating SkeletalMesh /Game/Cowboy/Sk_Cowboy.SK_Cowboy
+[2022.10.20-14.52.41:534][800]LogContentValidation: Display: Validating Material /Game/Cowboy/M_Cowboy.M_Cowboy
+[2022.10.20-14.52.46:401][384]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Idle_Anim)
+[2022.10.20-14.52.47:148][470]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (Idle_Anim)
+[2022.10.20-14.52.49:297][685]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Idle_Anim)
+[2022.10.20-14.52.50:027][772]Cmd: DELETE
+[2022.10.20-14.52.50:027][772]Cmd: ACTOR DELETE
+[2022.10.20-14.52.50:029][772]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.10.20-14.52.50:033][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.10.20-14.52.50:034][772]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.10.20-14.53.02:735][385]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\uo276467\Desktop\Nuevo res\Run Backward.fbx)
+[2022.10.20-14.53.02:742][385]LogFbx: Loading FBX Scene from C:\Users\uo276467\Desktop\Nuevo res\Run Backward.fbx
+[2022.10.20-14.53.02:753][385]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.20-14.54.02:515][385]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(0) Hips
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(1) Spine
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(2) Spine1
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(3) Spine2
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(4) Neck
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(5) Head
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(8) LeftArm
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(10) LeftHand
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(11) RightShoulder
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(12) RightArm
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(13) RightForeArm
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(14) RightHand
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(15) LeftUpLeg
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(16) LeftLeg
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(17) LeftFoot
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(18) LeftToeBase
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(19) LeftToe_End
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(20) RightUpLeg
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(21) RightLeg
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(22) RightFoot
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(23) RightToeBase
+[2022.10.20-14.54.02:524][385]LogFbx: SortedLinks :(24) RightToe_End
+[2022.10.20-14.54.02:524][385]LogFbx: Parsing AnimStack mixamo.com
+[2022.10.20-14.54.02:561][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Cowboy/Run_Backward.Run_Backward
+[2022.10.20-14.54.02:562][385]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Cowboy/Run_Backward.Run_Backward
+[2022.10.20-14.54.02:639][385]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\uo276467\Desktop\Nuevo res\Run Forward.fbx)
+[2022.10.20-14.54.02:659][385]LogFbx: Loading FBX Scene from C:\Users\uo276467\Desktop\Nuevo res\Run Forward.fbx
+[2022.10.20-14.54.02:671][385]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(0) Hips
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(1) Spine
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(2) Spine1
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(3) Spine2
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(4) Neck
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(5) Head
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(8) LeftArm
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(10) LeftHand
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(11) RightShoulder
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(12) RightArm
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(13) RightForeArm
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(14) RightHand
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(15) LeftUpLeg
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(16) LeftLeg
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(17) LeftFoot
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(18) LeftToeBase
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(19) LeftToe_End
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(20) RightUpLeg
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(21) RightLeg
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(22) RightFoot
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(23) RightToeBase
+[2022.10.20-14.54.02:672][385]LogFbx: SortedLinks :(24) RightToe_End
+[2022.10.20-14.54.02:672][385]LogFbx: Parsing AnimStack mixamo.com
+[2022.10.20-14.54.02:745][385]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\uo276467\Desktop\Nuevo res\Run Left.fbx)
+[2022.10.20-14.54.02:775][385]LogFbx: Loading FBX Scene from C:\Users\uo276467\Desktop\Nuevo res\Run Left.fbx
+[2022.10.20-14.54.02:786][385]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(0) Hips
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(1) Spine
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(2) Spine1
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(3) Spine2
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(4) Neck
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(5) Head
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(8) LeftArm
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(10) LeftHand
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(11) RightShoulder
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(12) RightArm
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(13) RightForeArm
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(14) RightHand
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(15) LeftUpLeg
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(16) LeftLeg
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(17) LeftFoot
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(18) LeftToeBase
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(19) LeftToe_End
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(20) RightUpLeg
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(21) RightLeg
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(22) RightFoot
+[2022.10.20-14.54.02:787][385]LogFbx: SortedLinks :(23) RightToeBase
+[2022.10.20-14.54.02:788][385]LogFbx: SortedLinks :(24) RightToe_End
+[2022.10.20-14.54.02:788][385]LogFbx: Parsing AnimStack mixamo.com
+[2022.10.20-14.54.02:820][386]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Cowboy/Run_Forward.Run_Forward
+[2022.10.20-14.54.02:820][386]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Cowboy/Run_Left.Run_Left
+[2022.10.20-14.54.13:489][521]LogContentBrowser: Deferred new asset file creation: Run_Left1
+[2022.10.20-14.54.13:496][521]LogContentBrowser: Creating deferred item: Run_Left1
+[2022.10.20-14.54.20:161][320]LogContentBrowser: Attempting asset rename: Run_Left1 -> Run_Right
+[2022.10.20-14.54.20:296][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Run_Right" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Run_Right.uasset" SILENT=true
+[2022.10.20-14.54.20:301][320]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Run_Right42FFBEE54F23A8CDFA6EE2B6AABE4FCB.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Run_Right.uasset'
+[2022.10.20-14.54.20:468][320]LogContentBrowser: End creating deferred item Run_Left1
+[2022.10.20-14.54.20:471][320]AssetCheck: New page: Asset Save: Run_Right
+[2022.10.20-14.54.20:471][320]LogContentValidation: Display: Validating AnimSequence /Game/Cowboy/Run_Right.Run_Right
+[2022.10.20-14.54.34:997][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Run_Left" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Run_Left.uasset" SILENT=true
+[2022.10.20-14.54.35:002][ 17]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Run_Left5ACD470947D663455BA029B7D3A2E578.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Run_Left.uasset'
+[2022.10.20-14.54.35:109][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Run_Forward" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Run_Forward.uasset" SILENT=true
+[2022.10.20-14.54.35:114][ 17]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Run_ForwardE261A79443F4DA85B3EAF992E5917082.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Run_Forward.uasset'
+[2022.10.20-14.54.35:209][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Run_Backward" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Run_Backward.uasset" SILENT=true
+[2022.10.20-14.54.35:215][ 17]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Run_Backward8D68CAB14CB3CF2C2CE8B2860097D7CD.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Run_Backward.uasset'
+[2022.10.20-14.54.35:323][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-14.54.35:323][ 17]LogContentValidation: Display: Validating AnimSequence /Game/Cowboy/Run_Left.Run_Left
+[2022.10.20-14.54.35:323][ 17]LogContentValidation: Display: Validating AnimSequence /Game/Cowboy/Run_Forward.Run_Forward
+[2022.10.20-14.54.35:324][ 17]LogContentValidation: Display: Validating AnimSequence /Game/Cowboy/Run_Backward.Run_Backward
+[2022.10.20-14.55.09:905][130]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Cowboy/Run_Right.Run_Right
+[2022.10.20-14.55.09:951][130]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-14.55.09:951][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-14.55.49:716][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.20-14.55.49:826][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.20-14.55.49:830][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.20-14.55.49:836][626]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/MainMapDA6CBBE046C1A0D0DA34EBBAF043BAA0.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/MainMap.umap'
+[2022.10.20-14.55.49:839][626]LogFileHelpers: Saving map 'MainMap' took 0.013
+[2022.10.20-14.55.49:847][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Run_Right" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Run_Right.uasset" SILENT=true
+[2022.10.20-14.55.49:852][626]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Run_Right577011554C8A2FC8C8234FBFDA674CAE.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Run_Right.uasset'
+[2022.10.20-14.55.49:858][626]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-14.55.49:858][626]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.10.20-14.55.49:858][626]LogContentValidation: Display: Validating AnimSequence /Game/Cowboy/Run_Right.Run_Right
