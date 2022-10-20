@@ -989,3 +989,96 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.20-14.30.40:254][778]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2022.10.20-14.30.53:304][177]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/uo276467/Desktop/sev/cowboy'
 [2022.10.20-14.32.20:923][189]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.20-14.34.30:036][971]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.20-14.34.30:051][971]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.20-14.34.35:191][565]LogContentBrowser: Attempting asset rename: NewFolder -> Cowboy
+[2022.10.20-14.34.35:191][565]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.20-14.34.37:916][844]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.20-14.34.37:933][844]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.20-14.34.39:957][ 81]LogContentBrowser: Attempting asset rename: NewFolder -> Enemies
+[2022.10.20-14.34.39:958][ 81]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.20-14.35.28:753][961]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\uo276467\Desktop\Nuevo res\Idle.fbx)
+[2022.10.20-14.35.28:776][961]LogFbx: Loading FBX Scene from C:\Users\uo276467\Desktop\Nuevo res\Idle.fbx
+[2022.10.20-14.35.28:792][961]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.20-14.37.27:859][961]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.20-14.37.27:878][961]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node vaquero-pistola : The relative matrices do not match
+[2022.10.20-14.37.27:879][961]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2022.10.20-14.37.27:879][961]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - vaquero-pistola
+[2022.10.20-14.37.27:879][961]LogFbx: Warning: Recreating bind pose succeeded.
+[2022.10.20-14.37.27:883][961]LogFbx: Warning: Bones digested - 25  Depth of hierarchy - 8
+[2022.10.20-14.37.27:902][961]LogSkeletalMesh: Section 0: Material=0, 760 triangles
+[2022.10.20-14.37.27:904][961]LogSkeletalMesh: Building Skeletal Mesh Idle...
+[2022.10.20-14.37.27:914][961]LogSkeletalMesh: Section 0: Material=0, 760 triangles
+[2022.10.20-14.37.27:916][961]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Cowboy/Idle.Idle
+[2022.10.20-14.37.27:923][961]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.20-14.37.27:923][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(0) Hips
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(1) Spine
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(2) Spine1
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(3) Spine2
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(4) Neck
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(5) Head
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(8) LeftArm
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(10) LeftHand
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(11) RightShoulder
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(12) RightArm
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(13) RightForeArm
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(14) RightHand
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(15) LeftUpLeg
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(16) LeftLeg
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(17) LeftFoot
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(18) LeftToeBase
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(19) LeftToe_End
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(20) RightUpLeg
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(21) RightLeg
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(22) RightFoot
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(23) RightToeBase
+[2022.10.20-14.37.27:925][961]LogFbx: SortedLinks :(24) RightToe_End
+[2022.10.20-14.37.27:926][961]LogFbx: Parsing AnimStack mixamo.com
+[2022.10.20-14.37.28:030][961]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Cowboy/Idle_Anim.Idle_Anim
+[2022.10.20-14.37.28:035][961]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.20-14.37.28:035][961]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2022.10.20-14.37.28:122][961]LogSlate: Took 0.005925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.20-14.37.48:034][323]LogSlate: Window 'Message Log' being destroyed
+[2022.10.20-14.37.48:036][323]LogSlate: Window 'Message Log' being destroyed
+[2022.10.20-14.37.53:527][885]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Cowboy/Idle.Idle
+[2022.10.20-14.37.53:555][885]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.10.20-14.37.53:559][885]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.10.20-14.37.53:645][885]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.20-14.37.53:717][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.20-14.37.53:718][885]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.10.20-14.37.53:935][885]LogSlate: Took 0.000862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.20-14.38.55:443][959]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Cowboy/Idle_Anim.Idle_Anim
+[2022.10.20-14.38.55:450][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.20-14.38.55:687][959]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.10.20-14.39.00:194][335]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Cowboy/Idle_Skeleton.Idle_Skeleton
+[2022.10.20-14.39.00:198][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.20-14.39.01:762][480]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Cowboy/Idle_PhysicsAsset.Idle_PhysicsAsset
+[2022.10.20-14.39.01:796][480]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2022.10.20-14.39.01:805][480]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.20-14.39.01:950][480]LogSlate: Took 0.001059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.20-14.40.30:633][331]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:7552).
+[2022.10.20-14.40.35:738][865]LogSlate: Window 'Idle_PhysicsAsset' being destroyed
+[2022.10.20-14.40.58:163][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.20-14.40.58:261][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Idle" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle.uasset" SILENT=true
+[2022.10.20-14.40.58:275][320]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Idle805AABE240684616E42E2B97D176BF2B.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle.uasset'
+[2022.10.20-14.40.58:373][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Idle_Skeleton" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle_Skeleton.uasset" SILENT=true
+[2022.10.20-14.40.58:374][320]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Idle_Skeleton91C9197740F4B1F3BD952FAE95511CF4.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle_Skeleton.uasset'
+[2022.10.20-14.40.58:486][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Idle_PhysicsAsset" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle_PhysicsAsset.uasset" SILENT=true
+[2022.10.20-14.40.58:491][320]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Idle_PhysicsAssetCA9023134842308F85DDD5B83E31F74D.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle_PhysicsAsset.uasset'
+[2022.10.20-14.40.58:621][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cowboy/Idle_Anim" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle_Anim.uasset" SILENT=true
+[2022.10.20-14.40.58:627][320]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/Idle_Anim35050EC94FBEB78AA35F248F55CFE7CD.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Cowboy/Idle_Anim.uasset'
+[2022.10.20-14.40.58:770][320]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.20-14.40.58:770][320]LogContentValidation: Display: Validating AnimSequence /Game/Cowboy/Idle_Anim.Idle_Anim
+[2022.10.20-14.40.58:770][320]LogContentValidation: Display: Validating PhysicsAsset /Game/Cowboy/Idle_PhysicsAsset.Idle_PhysicsAsset
+[2022.10.20-14.40.58:770][320]LogContentValidation: Display: Validating Skeleton /Game/Cowboy/Idle_Skeleton.Idle_Skeleton
+[2022.10.20-14.40.58:770][320]LogContentValidation: Display: Validating SkeletalMesh /Game/Cowboy/Idle.Idle
