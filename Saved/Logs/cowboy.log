@@ -1143,3 +1143,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.27-16.33.43:170][700]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/BP_EnemyGenerator002323034B135A6344C65EA6A1676378.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/Enemies/BP_EnemyGenerator.uasset'
 [2022.10.27-16.33.43:181][700]AssetCheck: New page: Asset Save: BP_EnemyGenerator
 [2022.10.27-16.33.43:181][700]LogContentValidation: Display: Validating Blueprint /Game/Enemies/BP_EnemyGenerator.BP_EnemyGenerator
+[2022.10.27-16.35.06:312][ 96]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{df684545-2759-494e-a5c6-b665d95121e8}.
+[2022.10.27-16.35.06:312][ 96]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.27-16.35.06:315][ 96]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.27-16.35.06:315][ 96]LogAudioMixer: Display: 1: FrontRight
+[2022.10.27-16.36.00:753][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.27-16.36.00:785][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.10.27-16.36.00:793][577]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/MainMapE49F12224920BD906C78AC93E894DE0D.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/MainMap.umap'
+[2022.10.27-16.36.00:862][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMap_BuiltData" FILE="../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/MainMap_BuiltData.uasset" SILENT=true
+[2022.10.27-16.36.00:876][577]LogSavePackage: Moving '../../../../../../Users/uo276467/Desktop/sev/cowboy/Saved/MainMap_BuiltDataCD19AB3A4561B92E32412C8888251404.tmp' to '../../../../../../Users/uo276467/Desktop/sev/cowboy/Content/MainMap_BuiltData.uasset'
+[2022.10.27-16.36.00:888][577]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.27-16.36.00:888][577]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainMap_BuiltData.MainMap_BuiltData
+[2022.10.27-16.36.00:888][577]LogContentValidation: Display: Validating World /Game/MainMap.MainMap
+[2022.10.27-16.36.04:395][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
